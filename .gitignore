@@ -1,0 +1,24 @@
+# For PCBs designed using KiCad
+
+# Temp files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
+*-rescue.lib
+*-save.pro
+*-save.kicad_pcb
+
+# Netlist files (Eeschema)
+*.net
+
+# Autorouter files (Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOMs
+*.xml
+*.csv
